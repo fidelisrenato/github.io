@@ -1,7 +1,7 @@
 # Portfolio
 
 Olá, este é meu portfolio de Analista de Dados.
-Acesse a página: https://fidelisrenato.github.io/portfolio/
+Acesse a página: https://fidelisrenato.github.io/
 
 Fique à vontade para fazer um fork e também criar o seu. 😁
 
